@@ -46,21 +46,17 @@ TODO: If you would like to link the user to further learning, please enter that 
 | Future Learning 2  | [Link 2](https://www.google.com/) | Learn more about Y |
 
 ## Content Owners
-TODO: Add yourself as a content owner
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url.
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
 <table>
 <tr>
     <td align="center"><a href="http://learnanalytics.microsoft.com">
-        <img src="https://github.com/cole-g-johnson.png" width="100px;" alt="Chris Testa-O'Neill
+        <img src="https://github.com/cedricvidal.png" width="100px;" alt="Chris Testa-O'Neill
 "/><br />
-        <sub><b>INSERT NAME HERE
+        <sub><b>Cedric Vidal
 </b></sub></a><br />
-            <a href="https://github.com/cole-g-johnson" title="talk">📢</a> 
+            <a href="https://github.com/cedricvidal" title="talk">📢</a> 
     </td>
 </tr></table>
 
