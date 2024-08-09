@@ -1,4 +1,4 @@
-# Code-First LLMOps from Prototype to Production with GenAI Tools  
+# AI Tour 2025 BRK451 Code-First LLMOps from Prototype to Production with GenAI Tools
 
 <details>
 
