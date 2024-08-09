@@ -28,14 +28,32 @@ By the end of this session, attendees will:
 - Gain the ability to stay in their preferred local development environment when desired and smoothly switch to AI Studio for enhanced collaboration.  
 
 ## Technology Used  
-- Prompty  
-- GPT-4o  
-- GPT-3.5 Turbo  
-- FastAPI  
-- Azure Container Applications  
-- azd (Azure Developer CLI)  
-- AppInsights  
-- Promptflow  
+- Backend application
+  - Prompty
+  - FastAPI
+  - OpenTelemetry
+- Frontend application
+  - React
+  - Typescript
+  - ViteJS
+- AI Models
+  - GPT-4o
+  - GPT-3.5 Turbo
+- Tools
+  - Azure AI Search
+  - Bing Search
+- Monitoring
+  - AppInsights
+  - Promptflow tracing
+- Infra
+  - Azure Container Applications (ACA)
+  - Azure AI Hub
+  - Managed identity
+  - Key vault
+- Infra as code
+  - azd (Azure Developer CLI)
+- CI/CD
+  - Github Actions
 
 ## Additional Resources and Continued Learning
 TODO: If you would like to link the user to further learning, please enter that here.
