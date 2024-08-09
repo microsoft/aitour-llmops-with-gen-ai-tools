@@ -20,12 +20,12 @@ code.
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| PowerPoint        | - [Presentation](presentations.md) | Slides |
-| PPT Recording     | - [Presentation](https://globaleventcdn.blob.core.windows.net/assets/data/data10/DATA10.mp4) | Video Recording of the PowerPoint slides with no audio |
-| Videos            | - [Microsoft Ignite Orlando Recording](https://myignite.techcommunity.microsoft.com/sessions/84354) | Example Presetations of this Session |
-| Demos             | - [Demo 1 - Exploring a Modern Data Warehouse](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | Additional Demo Content | 
-| Demo Recordings           | - [Data10 - Prequisites](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10_Prerequisites-NoAudio.mp4) | Recording of the Demo Live 1 | 
-| Demo Recordings           | - [Data10 - Demo](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4 ) | Recording of the Demo Live 2 | 
+| PowerPoint        | - [Presentation](https://microsoft-my.sharepoint.com/:p:/r/personal/cedricvidal_microsoft_com/Documents/Talks/2024-09%20AI%20Tour%2025/AI%20Tour%2025%20-%20BRK451_Code-first%20LLMOps%20from%20prototype%20to%20production%20with%20GenAI.pptx?d=w226a7f27200d4d259e5d13c09dfb3a6d&csf=1&web=1&e=oSdbwf) | Slides |
+| PPT Recording     | - TODO | Video Recording of the PowerPoint slides with no audio |
+| Videos            | - [Code-First LLMOps from prototype to production with GenAI tools - BRK110](https://www.youtube.com/watch?v=gvqsPhd27LE) | Previous Build 2024 session |
+| Videos            | - TODO | Up to date video |
+| Demos             | - [Creative Assistant agentic application demo](https://github.com/Azure-Samples/agent-openai-python-prompty/tree/aca-openai-agent) | Creative Assistant agentic application demo | 
+| Demo Recordings           | TODO | Recording of the Demo Live 1 | 
 
 ## Get Started
 

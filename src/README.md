@@ -1,3 +1,5 @@
 # Source code
 
-This folder contains the source code for this lab.
+The code source of the demo application for this session is in the following repository:
+
+https://github.com/Azure-Samples/agent-openai-python-prompty/tree/aca-openai-agent
