@@ -1,4 +1,4 @@
-# AI Tour 2025 BRK451 Code-First LLMOps from Prototype to Production with GenAI Tools
+# AI Tour 2025 BRK451 Code-First GenAIOps from Prototype to Production with GenAI Tools
 
 ## Session Description  
 In this session, we will demonstrate the development of an agentic creative assistant application leveraging state-of-the-art technologies such as Prompty, GPT-4o, GPT-3.5 Turbo, and FastAPI. The application is deployed to Azure Container Applications, utilizing azd for deployment, AppInsights for monitoring, and Promptflow traces for debugging and tracing. The session aims to highlight why Azure AI is the best platform for developing LLM-powered apps with robust end-to-end flow orchestration, tracing/debugging, and monitoring capabilities.  
@@ -6,7 +6,7 @@ In this session, we will demonstrate the development of an agentic creative assi
 ## Learning Outcomes  
 By the end of this session, attendees will:  
 - Learn how Azure AI's code-first tooling, such as Prompty and Promptflow, can streamline and simplify the LLM lifecycle.  
-- Understand that LLMOps requires non-linear, iterative processes.
+- Understand that GenAIOps requires non-linear, iterative processes.
 - Learn the practicalities of deploying LLM powered applications to production
 - Gain the ability to stay in their preferred local development environment when desired and smoothly switch to AI Studio for enhanced collaboration.  
 
