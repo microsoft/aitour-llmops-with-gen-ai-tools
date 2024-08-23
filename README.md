@@ -1,22 +1,5 @@
 # AI Tour 2025 BRK451 Code-First LLMOps from Prototype to Production with GenAI Tools
 
-<details>
-
-<summary>Template guidelines</summary>
-
-### You can add a header
-
-To help prepare content for AI Tour, please use this template repository for organizing your sessions and preparing the content for future presentors.
-1. Update this readme with the todo's listed below
-2. The src folder has been created for all development tasks when creating this session
-3. The Lab folder is in-person and async participation with content, please update this folder with instructions for participants to follow along.
-4. The Presenter Notes folder is the train the trainer section. Here add any slide decks, demo videos, and other content as needed. This page has a rough layout to provide ideas but can be edited as needed.
-5. If you are taking advantage of the static front end site, edit the content in the _config.yml file as needed (specifically the title and description)
-
-This repo is intended as a template for Microsoft AI Tour repositories.  
-  
-</details>
-
 ## Session Description  
 In this session, we will demonstrate the development of an agentic creative assistant application leveraging state-of-the-art technologies such as Prompty, GPT-4o, GPT-3.5 Turbo, and FastAPI. The application is deployed to Azure Container Applications, utilizing azd for deployment, AppInsights for monitoring, and Promptflow traces for debugging and tracing. The session aims to highlight why Azure AI is the best platform for developing LLM-powered apps with robust end-to-end flow orchestration, tracing/debugging, and monitoring capabilities.  
   
