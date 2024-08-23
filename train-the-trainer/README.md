@@ -1,8 +1,3 @@
-## TODO:
-Update this page as you see fit to properly train a future presenter of your content. A past train the trainer repo is included below for your assitance, but feel free to make any changes.
-
-Note: Please make sure to update any links within the markdown so they point to the correct file.
-
 ## How To Use
 
 Welcome,
@@ -20,12 +15,12 @@ code.
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| PowerPoint        | - [Presentation](https://microsoft-my.sharepoint.com/:p:/r/personal/cedricvidal_microsoft_com/Documents/Talks/2024-09%20AI%20Tour%2025/AI%20Tour%2025%20-%20BRK451_Code-first%20LLMOps%20from%20prototype%20to%20production%20with%20GenAI.pptx?d=w226a7f27200d4d259e5d13c09dfb3a6d&csf=1&web=1&e=oSdbwf) | Slides |
-| PPT Recording     | - TODO | Video Recording of the PowerPoint slides with no audio |
-| Videos            | - [Code-First LLMOps from prototype to production with GenAI tools - BRK110](https://www.youtube.com/watch?v=gvqsPhd27LE) | Previous Build 2024 session |
-| Videos            | - TODO | Up to date video |
-| Demos             | - [Creative Assistant agentic application demo](https://github.com/Azure-Samples/agent-openai-python-prompty/tree/aca-openai-agent) | Creative Assistant agentic application demo | 
-| Demo Recordings           | TODO | Recording of the Demo Live 1 | 
+| PowerPoint        | [Presentation](https://aka.ms/AArxxb5) | Slides |
+| PPT Recording     | Coming soon | Video Recording of the PowerPoint slides with no audio |
+| Videos            | [Code-First LLMOps from prototype to production with GenAI tools - BRK110](https://www.youtube.com/watch?v=gvqsPhd27LE) | Previous Build 2024 session |
+| Videos            | Coming soon | Up to date video |
+| Demos             | [Creative Assistant agentic application demo](https://github.com/Azure-Samples/agent-openai-python-prompty/tree/aca-openai-agent) | Creative Assistant agentic application demo | 
+| Demo Recordings           | Coming soon | Recording of the Demo Live 1 | 
 
 ## Get Started
 
@@ -37,18 +32,18 @@ This training repository is divided in to the following sections:
 
 ## Slides
 
-The [slides](presentations.md) have presenter notes in each part of the session
+The [slides](https://aka.ms/AArxxb5) have presenter notes in each part of the session
 
 ### Timing
 
 | Time        | Description 
 --------------|-------------
 0:00 - 5:00   | Intro to the session 
-5:00 - 15:00  | Why Modern Data Warehousing
-15:00 - 20:00 | Building the Modern data warehouse
-20:00 - 35:00 | Designing a modern data warehouse solution
-35:00 - 40:00 | The evolution of cloud scale analytics
-40:00 - 45:00 | Session review
+5:00 - 10:00  | Tools overview
+10:00 - 20:00 | Intro to Prompty
+20:00 - 35:00 | Building the application
+35:00 - 40:00 | Evaluating and monitoring
+41:00 - 45:00 | Key takeaways
 
 ## Deployment / Preparation
 
@@ -65,5 +60,5 @@ Detailed explanations of each demonstration associated with this presentation ca
 
 | Demo 	                                                                                               | Minutes | Video |
 -------------------------------------------------------------------------------------------------------|---------|----------------- | 
-|  [1 - Exploring a Modern Data Warehouse](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | 15       | [Link](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4) |
+|  Coming soon  | -- | --
 
