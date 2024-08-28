@@ -39,12 +39,11 @@ By the end of this session, attendees will:
   - Github Actions
 
 ## Additional Resources and Continued Learning
-TODO: If you would like to link the user to further learning, please enter that here.
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Future Learning 1  | [Link 1](https://www.google.com/) | Learn more about X |
-| Future Learning 2  | [Link 2](https://www.google.com/) | Learn more about Y |
+| _Coming soon_ | _Coming soon_ | _Coming soon_ |
+
 
 ## Content Owners
 
