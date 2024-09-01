@@ -58,6 +58,12 @@ By the end of this session, attendees will:
 </b></sub></a><br />
             <a href="https://github.com/cedricvidal" title="talk">📢</a> 
     </td>
+    <td align="center"><a href="http://learnanalytics.microsoft.com">
+        <img src="https://github.com/cassiebreviu.png" width="100px;" alt="Cassie Breviu"/><br />
+        <sub><b>Cassie Breviu
+</b></sub></a><br />
+            <a href="https://github.com/Cassie Breviu" title="talk">📢</a> 
+    </td>
 </tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
