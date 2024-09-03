@@ -1,5 +1,9 @@
 # Deploying the contoso-creative-writer demo
 
+## How-to video
+
+This how-to complements the [Azure Deployment video recording](https://microsoft-my.sharepoint.com/:v:/p/cedricvidal/EW88E0K68f5Fgx-wdie6szQBeDYRiS7WSt-POKzwJ5TuOQ?e=GMhsNh).
+
 ## Opening the project
 
 To open the project in GitHub Codespaces, simply follow these steps:

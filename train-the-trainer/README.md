@@ -8,7 +8,8 @@ Along with the video of the presentation, this document will link to all the ass
 code.
 
 1.  Read document in its entirety.
-2.  Watch the video presentation
+2.  Watch the [video presentation](#demos)
+3.  Watch all [setup](#setup) and [deployment](#deployment) videos
 3.  Ask questions of the Lead Presenter
 
 ## File Summary
@@ -25,9 +26,9 @@ code.
 
 This training repository is divided in to the following sections:
 
-| [Slides](#slides) | [Demos](demos/README.md) | [Deployment](deployment/README.md) | 
-|-------------------|---------------------------|--------------------------------------
-| 28 slides - 30 minutes| 1 demos - 15 minutes | Demo setup
+| [Slides](#slides) | [Demos](demos/README.md) | [Setup](#setup) | [Deployment](#deployment) |
+|-------------------|---------------------------|------------------------|----|
+| 28 slides - 30 minutes| 1 demos - 15 minutes | Demo and tools setup | Demo deployment |
 
 ## Slides
 
@@ -44,20 +45,21 @@ The [slides](https://aka.ms/AArxxb5) have presenter notes in each part of the se
 35:00 - 40:00 | Evaluating and monitoring
 41:00 - 45:00 | Key takeaways
 
-## Deployment / Preparation
+## Setup
 
->**What's Here?** Deploying the demo environment on Azure - including the prerequisites.
+>**What's Here?** Step by step instructions to setup Prompty development in VS Code, Codespaces, GitHub actions, tracing, evaluation and AppInsights.
 
-[Instructions and prerequisites are outlined here](deployment/README.md). 
+Each step [has a video explaining](./howto-videos.md) how to get up and running.
 
+## Deployment
+
+>**What's Here?** Deploying the demo environment on Azure.
+
+- [Instructions are outlined here](deployment/README.md).
+- Those instructions are complemented by a step by step the [Azure Deployment video recording](https://microsoft-my.sharepoint.com/:v:/p/cedricvidal/EW88E0K68f5Fgx-wdie6szQBeDYRiS7WSt-POKzwJ5TuOQ?e=GMhsNh).
 
 ## Demos
 
 > **What's Here?** Pre-delivery preparation, stage ready videos, required files (such as JSON templates), and walk-through videos
 
 Detailed explanations of each demonstration associated with this presentation can be found in this section. There are 3 "live from stage" technical demonstrations that utilize a number of tools both in and out of Azure. [You can get a high level overview of the tools and how we will be using them here](demos/README.md).
-
-| Demo 	                                                                                               | Minutes | Video |
--------------------------------------------------------------------------------------------------------|---------|----------------- | 
-|  Coming soon  | -- | --
-
