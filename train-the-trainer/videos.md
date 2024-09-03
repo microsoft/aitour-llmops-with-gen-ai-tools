@@ -9,5 +9,5 @@
 | Deployment Codespaces Local | Pending | How to run the API and Web app locally in Codespaces | 
 | GH Actions | Pending | Explain how to configure GH actions on a fork | 
 | Tracing | Pending | Prompty trace local file |
-| Evaluation | How to evaluate the agents and prevent regressions |
+| Evaluation | Pending | How to evaluate the agents and prevent regressions |
 | AppInsights | Pending | How to activate AppInsights traces and monitor the app |
