@@ -8,6 +8,6 @@
 | Deployment Azure | [Video](https://microsoft-my.sharepoint.com/:v:/p/cedricvidal/EW88E0K68f5Fgx-wdie6szQBeDYRiS7WSt-POKzwJ5TuOQ?e=GMhsNh) | How to deploy the app | 
 | Deployment Codespaces Local | [Video](https://microsoft-my.sharepoint.com/:v:/p/cedricvidal/EcEO53rTsVdBg1BJBkkK2UoBFSQNgoBhkWDl8--cV0NoIQ?e=vk0w7U) | How to run the API and Web app locally in Codespaces | 
 | GH Actions | [Video](https://microsoft-my.sharepoint.com/:v:/p/cedricvidal/EeJ7QEBtjeBJn-zHh2qjQdMBkSJttvShjYUVaomboSPowA?e=LkTyMk) | Explain how to configure GH actions on a fork | 
-| Tracing | Pending | Prompty trace local file |
+| Tracing | [Video](https://microsoft-my.sharepoint.com/:v:/p/cedricvidal/Ea0-dbffnB9Bjp3kzEs8-E4BObjxp0KTh_cb8cPQry8ryA?e=YH3Rq3) | Prompty trace local file |
 | Evaluation | Pending | How to evaluate the agents and prevent regressions |
 | AppInsights | Pending | How to activate AppInsights traces and monitor the app |
