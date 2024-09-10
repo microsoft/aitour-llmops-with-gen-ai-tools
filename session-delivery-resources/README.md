@@ -18,7 +18,7 @@ code.
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| PowerPoint        | [Presentation](https://aka.ms/AArxxb5) | Slides |
+| PowerPoint        | [Presentation](https://aka.ms/AArxxb5) | Slides, [Additional Languages](#powerpoint-slides-in-additional-languages) |
 | PPT Recording     | Coming soon | Video Recording of the PowerPoint slides with no audio |
 | Build 24 session            | [Code-First LLMOps from prototype to production with GenAI tools - BRK110](https://www.youtube.com/watch?v=gvqsPhd27LE) | Previous Build 2024 session |
 | How-to recordings | [How-to video recordings](./howto-videos.md) | Setup tutorials and demo recordings |
@@ -47,6 +47,12 @@ The [slides](https://aka.ms/AArxxb5) have presenter notes in each part of the se
 35:00 - 40:00 | Evaluating and monitoring
 41:00 - 45:00 | Key takeaways
 
+### PowerPoint Slides in additional languages
+| Language | Last updated | 
+|------------------- | ---- |
+| Spanish (*coming soon*) | 2024.09.10 | 
+| Portuguese (*coming soon*) | 2024.09.10| 
+
 ## Setup
 
 >**What's Here?** Step by step instructions to setup Prompty development in VS Code, Codespaces, GitHub actions, tracing, evaluation and AppInsights.
@@ -65,3 +71,11 @@ Each step [has a video explaining](./howto-videos.md) how to get up and running.
 > **What's Here?** Pre-delivery preparation, stage ready videos, required files (such as JSON templates), and walk-through videos
 
 Detailed explanations of each demonstration associated with this presentation can be found in this section. There are 3 "live from stage" technical demonstrations that utilize a number of tools both in and out of Azure. [You can get a high level overview of the tools and how we will be using them here](demos/README.md).
+
+## Change Log
+
+Here is a log of the changes made to this file:
+
+| Date       | Changes |
+|------------|---------|
+| 2024.09.10 | Added Change log, Additional language section with Spanish and Portuguese PowerPoint slides *coming soon* |
