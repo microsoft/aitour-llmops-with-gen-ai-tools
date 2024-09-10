@@ -19,7 +19,7 @@ code.
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
 | PowerPoint        | [Presentation](https://aka.ms/AArxxb5) | Slides, [Additional Languages](#powerpoint-slides-in-additional-languages) |
-| PPT Recording     | Coming soon | Video Recording of the PowerPoint slides with no audio |
+| PPT Recording     | [Recording](https://aka.ms/AAs7mfv) | Video Recording of the PowerPoint slides wit commentary|
 | Build 24 session            | [Code-First LLMOps from prototype to production with GenAI tools - BRK110](https://www.youtube.com/watch?v=gvqsPhd27LE) | Previous Build 2024 session |
 | How-to recordings | [How-to video recordings](./howto-videos.md) | Setup tutorials and demo recordings |
 | GitHub Repository | [Creative Assistant agentic application demo](https://github.com/Azure-Samples/agent-openai-python-prompty/tree/aca-openai-agent) | Creative Assistant agentic application demo | 
