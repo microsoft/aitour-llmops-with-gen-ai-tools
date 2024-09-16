@@ -10,9 +10,10 @@ Along with the video of the presentation, this document will link to all the ass
 code.
 
 1.  Read document in its entirety.
-2.  Watch the [video presentation](#demos)
-3.  Watch all [setup](#setup) and [deployment](#deployment) videos
-3.  Ask questions of the Lead Presenter
+2.  Watch the [session delivery presentation video](#recording)
+3.  Watch all [setup](#setup) videos
+4.  Read [deployment](#deployment) instructions
+5.  Ask questions of the Lead Presenter
 
 ## File Summary
 
@@ -34,6 +35,10 @@ This training repository is divided in to the following sections:
 ## Slides
 
 The [slides](https://aka.ms/AArxxb5) have presenter notes in each part of the session
+
+### Recording
+
+The final session presentation video [recording](https://aka.ms/AAs7mfv).
 
 ### Timing
 
