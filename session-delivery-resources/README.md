@@ -10,18 +10,18 @@ Along with the video of the presentation, this document will link to all the ass
 code.
 
 1.  Read document in its entirety.
-2.  Watch the [video presentation](#demos)
-3.  Watch all [setup](#setup) and [deployment](#deployment) videos
-3.  Ask questions of the Lead Presenter
+2.  Watch the [session delivery presentation video](#recording)
+3.  Watch all [setup](#setup) videos
+4.  Read [deployment](#deployment) instructions
+5.  Ask questions of the Lead Presenter
 
 ## File Summary
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
 | PowerPoint        | [Presentation](https://aka.ms/AArxxb5) | Slides, [Additional Languages](#powerpoint-slides-in-additional-languages) |
-| PPT Recording     | [Recording](https://aka.ms/AAs7mfv) | Video Recording of the PowerPoint slides wit commentary|
-| Build 24 session            | [Code-First LLMOps from prototype to production with GenAI tools - BRK110](https://www.youtube.com/watch?v=gvqsPhd27LE) | Previous Build 2024 session |
-| How-to recordings | [How-to video recordings](./howto-videos.md) | Setup tutorials and demo recordings |
+| PPT Recording     | [Recording](https://aka.ms/AAs7mfv) | Video Recording of the PowerPoint slides / final session with commentary|
+| How-to recordings | [How-to video recordings](./howto-videos.md) | Video recordings explaining how to setup your environment and learn about the different tools used to deliver the session |
 | GitHub Repository | [Creative Assistant agentic application demo](https://github.com/Azure-Samples/agent-openai-python-prompty/tree/aca-openai-agent) | Creative Assistant agentic application demo | 
 
 ## Get Started
@@ -35,6 +35,10 @@ This training repository is divided in to the following sections:
 ## Slides
 
 The [slides](https://aka.ms/AArxxb5) have presenter notes in each part of the session
+
+### Recording
+
+The final session presentation video [recording](https://aka.ms/AAs7mfv).
 
 ### Timing
 
