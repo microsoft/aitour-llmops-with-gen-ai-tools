@@ -50,8 +50,8 @@ The [slides](https://aka.ms/AArxxb5) have presenter notes in each part of the se
 ### PowerPoint Slides in additional languages
 | Language | Last updated | 
 |------------------- | ---- |
-| Spanish (*coming soon*) | 2024.09.10 | 
-| Portuguese (*coming soon*) | 2024.09.10| 
+| [Spanish](https://aka.ms/AAs8rcf) | 2024.09.10 | 
+| [Portuguese](https://aka.ms/AAs8yt2) | 2024.09.10| 
 
 ## Setup
 
