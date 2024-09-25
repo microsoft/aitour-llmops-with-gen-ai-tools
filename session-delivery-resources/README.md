@@ -22,7 +22,7 @@ code.
 | PowerPoint        | [Presentation](https://aka.ms/AArxxb5) | Slides, [Additional Languages](#powerpoint-slides-in-additional-languages) |
 | PPT Recording     | [Recording](https://aka.ms/AAs7mfv) | Video Recording of the PowerPoint slides / final session with commentary|
 | How-to recordings | [How-to video recordings](./howto-videos.md) | Video recordings explaining how to setup your environment and learn about the different tools used to deliver the session |
-| GitHub Repository | [Creative Assistant agentic application demo](https://github.com/Azure-Samples/agent-openai-python-prompty/tree/aca-openai-agent) | Creative Assistant agentic application demo | 
+| GitHub Repository | [Creative Assistant agentic application demo](https://github.com/Azure-Samples/contoso-creative-writer) | Creative Assistant agentic application demo | 
 
 ## Get Started
 
