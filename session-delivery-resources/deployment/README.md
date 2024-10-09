@@ -18,6 +18,19 @@ To open the project in GitHub Codespaces, simply follow these steps:
 
 For more detailed information, you can refer to the [GitHub Codespaces documentation](https://docs.github.com/en/codespaces).
 
+## Prerequsities 
+
+<mark>**Azure OpenAI GPT4 Quota** The AZD template deployment requires 10 new capacity in quota Tokens Per Minute (thousands) for GPT-4, which is bigger than the current available capacity.</mark>
+
+### How to request additional azure openai quota
+To request additional quota for Azure OpenAI, follow these steps:
+- Navigate to [Azure OpenAI Studio](https://oai.azure.com): Go to the Azure OpenAI Studio in your Azure portal
+- Click on "Quotas": In the Azure OpenAI Studio, click on the "Quotas" section
+- Select the Model: Choose the model for which you want to increase the quota
+- Request Quota: Click on the "Request quota" icon and fill out the necessary details to submit your request
+
+Make sure you have the appropriate permissions, such as the Cognitive Services OpenAI Contributor role at the resource level and the Reader role at the subscription level.
+
 ## Authenticating
 
 You need to authenticate using both the Azure CLI `az` and the Azure Developer CLI `azd`:
