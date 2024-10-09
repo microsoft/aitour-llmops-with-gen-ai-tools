@@ -31,6 +31,9 @@ To request additional quota for Azure OpenAI, follow these steps:
 
 Make sure you have the appropriate permissions, such as the Cognitive Services OpenAI Contributor role at the resource level and the Reader role at the subscription level.
 
+<mark>**Note** If you cannot request additional capacity please edit the `ai.yaml` file located in `contoso-creative-writer/infra` within the Azure-Sample `https://github.com/Azure-Samples/contoso-creative-writer`
+</mark>
+
 ## Authenticating
 
 You need to authenticate using both the Azure CLI `az` and the Azure Developer CLI `azd`:
@@ -56,6 +59,8 @@ To provision the project with `azd` (Azure Developer CLI), at the root of the pr
 ```
 azd up
 ```
+
+<mark>**Note** Please ensure you select Canada East as your resource group location</mark>
 
 ![](./azd-up.png)
 
