@@ -39,7 +39,7 @@ You need to authenticate using both the Azure CLI `az` and the Azure Developer C
 az login --use-device-code
 ```
 
-<mark>**Note** that you may need to add the `--tenant` parameter to login to your specific BAMI tenant. Use the command az login --tenant <TenantID> --use-device-code </mark>
+<mark>**Note** that you may need to add the `--tenant` parameter to login to your specific BAMI tenant. Use the command `az login --tenant <TenantID> --use-device-code` </mark>
 
 The `az` authentication is required because the `az` tool is used during post provisioning to build and deploy the `api` and the `web` ACA containers.
 
@@ -47,7 +47,7 @@ The `az` authentication is required because the `az` tool is used during post pr
 azd auth login --use-device-code
 ```
 
-<mark>**Note** that you may need to add the `--tenant-id` (different than for `az`) parameter to login to your specific BAMI tenant. Use the command azd auth login --tenant-id <TenantID> --use-device-code </mark>
+<mark>**Note** that you may need to add the `--tenant-id` (different than for `az`) parameter to login to your specific BAMI tenant. Use the command `azd auth login --tenant-id <TenantID> --use-device-code` </mark>
 
 ## Provisioning
 
