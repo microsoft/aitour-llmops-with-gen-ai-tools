@@ -93,10 +93,19 @@ The provisioning takes some time and if everything works correctly, you should s
 
 At the very bottom, it should display `SUCCESS` and if you scroll up a bit, you should see the URL at which the web ACA container has been deployed.
 
-Click on the link, it should display the web app successfully deployed:
+Portforwarding in VSCode, Devecontainer or Codespaces
+
+For the application to successfully work you will need to make the web app on the codespaces environment public facing so the Azure services can communicate. 
+Select the ports tab within the Codespaces terminal and set the port 8000 to be public.
+
+![](./codespace-portforward.png)
+
+Click on the link url link in the deployment results to access the main web app, it should display the web app successfully deployed:
 
 ![](./web-app-success.png)
 
 You can then start using the web app, click on the `Example` button then on the `Start Work` button then on the bug shaped debug button on the lower right of the screen, if everything works correctly, you should start to see some debug messages and eventually the final article.
 
 ![](./start-work.png)
+
+<mark>**Note** if you do not get a response please ensure you check your portfowarding in VScode Devcontainer or Codespaces environment</mark>
