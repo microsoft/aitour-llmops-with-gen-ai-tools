@@ -1,4 +1,6 @@
 # AI Tour 2025 BRK451 Code-First GenAIOps from Prototype to Production with GenAI Tools
+[![Azure AI Community Discord](
+https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://discord.com/invite/ByRwuEEgH4?WT.mc_id=aiml-00001-leestott)
 
 ## Session Description  
 In this session, we will demonstrate the development of an agentic creative assistant application leveraging state-of-the-art technologies such as Prompty, GPT-4o, GPT-3.5 Turbo, and FastAPI. The application is deployed to Azure Container Applications, utilizing azd for deployment, AppInsights for monitoring, and Promptflow traces for debugging and tracing. The session aims to highlight why Azure AI is the best platform for developing LLM-powered apps with robust end-to-end flow orchestration, tracing/debugging, and monitoring capabilities.  
