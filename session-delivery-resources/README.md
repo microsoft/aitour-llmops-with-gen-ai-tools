@@ -63,6 +63,19 @@ The final session presentation video [recording](https://aka.ms/AAs7mfv).
 
 Each step [has a video explaining](./howto-videos.md) how to get up and running.
 
+## Required Quota
+
+>**What's Here?** The quota required to deploy **one instance** of this application. More quota may be necessary if multiple speakers deliver the same content at the same time.
+
+| Model                  | SKU          | Capacity (TPM) |
+|------------------------|--------------|----------------|
+| gpt-35-turbo           | Standard (1) | 20k            |
+| text-embedding-ada-002 | Standard (1) | 20k            |
+| gpt-4o                 | Standard (1) | 20k            |
+| gpt-4                  | Standard (1) | 20k            |
+
+**(1)**: Standard or Global Standard
+
 ## Deployment
 
 >**What's Here?** Deploying the demo environment on Azure.
