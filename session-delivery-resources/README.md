@@ -87,7 +87,7 @@ Each step [has a video explaining](./howto-videos.md) how to get up and running.
 
 > **What's Here?** Pre-delivery preparation, stage ready videos, required files (such as JSON templates), and walk-through videos
 
-Detailed explanations of each demonstration associated with this presentation can be found in this section. There are 3 "live from stage" technical demonstrations that utilize a number of tools both in and out of Azure. [You can get a high level overview of the tools and how we will be using them here](demos/README.md).
+Detailed explanations of each demonstration associated with this presentation can be found in this section. There are 3 "live from stage" technical demonstrations that utilize a number of tools both in and out of Azure. In addition, isolated videos for each demo are available with no commentary. However, speaker notes can be found in the [presentation slide deck](https://aka.ms/AArxxb5) for the respective demo. [You can get a high level overview of the tools and how we will be using them here](demos/README.md).
 
 ## Change Log
 
