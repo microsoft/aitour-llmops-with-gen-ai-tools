@@ -3,7 +3,7 @@
 https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://discord.com/invite/ByRwuEEgH4?WT.mc_id=aiml-00001-leestott)
 
 ## Session Description  
-In this session, we will demonstrate the development of an agentic creative assistant application leveraging state-of-the-art technologies such as Azure AI Agent Service, Prompty, GPT-4o, GPT-3.5 Turbo, and FastAPI. The application is deployed to Azure Container Applications, utilizing azd for deployment, AppInsights for monitoring, and Azure AI Inference SDK for tracing and debugging. The session aims to highlight why Azure AI is the best platform for developing LLM-powered apps with robust end-to-end flow orchestration, tracing/debugging, and monitoring capabilities.  
+In this session, we will demonstrate the development of an agentic creative assistant application leveraging state-of-the-art technologies such as Azure AI Agent Service, Prompty, GPT-4o, GPT-4o-mini, and FastAPI. The application is deployed to Azure Container Applications, utilizing azd for deployment, AppInsights for monitoring, and Azure AI Inference SDK for tracing and debugging. The session aims to highlight why Azure AI is the best platform for developing LLM-powered apps with robust end-to-end flow orchestration, tracing/debugging, and monitoring capabilities.  
   
 ## Learning Outcomes  
 By the end of this session, attendees will:  
