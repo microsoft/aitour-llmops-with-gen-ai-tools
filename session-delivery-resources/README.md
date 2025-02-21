@@ -69,19 +69,16 @@ Each step [has a video explaining](./howto-videos.md) how to get up and running.
 
 | Model                  | SKU          | Capacity (TPM) |
 |------------------------|--------------|----------------|
-| gpt-35-turbo           | Standard (1) | 20k            |
-| text-embedding-ada-002 | Standard (1) | 20k            |
-| gpt-4o                 | Standard (1) | 20k            |
-| gpt-4                  | Standard (1) | 20k            |
-
-**(1)**: Standard or Global Standard
+| text-embedding-ada-002 | Standard | 20k            |
+| gpt-4o                 | Global Standard | 80k            |
+| gpt-4o-mini            | Standard | 50k            |
 
 ## Deployment
 
 >**What's Here?** Deploying the demo environment on Azure.
 
 - [Instructions are outlined here](deployment/README.md).
-- Those instructions are complemented by a step by step the [Azure Deployment video recording](https://microsoft-my.sharepoint.com/:v:/p/cedricvidal/EW88E0K68f5Fgx-wdie6szQBeDYRiS7WSt-POKzwJ5TuOQ?e=GMhsNh).
+- These instructions are complemented by a step by step video: [Azure Deployment video recording](https://microsoft-my.sharepoint.com/:v:/p/cedricvidal/EW88E0K68f5Fgx-wdie6szQBeDYRiS7WSt-POKzwJ5TuOQ?e=GMhsNh).
 
 ## Demos
 
