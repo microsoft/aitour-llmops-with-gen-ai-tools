@@ -23,7 +23,7 @@ By the end of this session, attendees will:
   - ViteJS
 - AI Models
   - GPT-4o
-  - GPT-3.5 Turbo
+  - GPT-4o-mini
 - Tools
   - Azure AI Search
   - Grounding with Bing
