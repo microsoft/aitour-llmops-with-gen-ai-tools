@@ -56,6 +56,8 @@ The final session presentation video [recording](https://aka.ms/AAs7mfv).
 |------------------- | ---- |
 | [Spanish](https://aka.ms/AAs8rcf) | 2024.09.10 | 
 | [Portuguese](https://aka.ms/AAs8yt2) | 2024.09.10| 
+| [Korean](https://aka.ms/AAv6r3l) | 2025.04.08  |
+| [Japanese](https://aka.ms/AAvcauq) | 2025.04.08  |
 
 ## Setup
 
