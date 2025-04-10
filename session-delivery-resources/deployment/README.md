@@ -60,7 +60,7 @@ To provision the project with `azd` (Azure Developer CLI), at the root of the pr
 azd up
 ```
 
-<mark>**Note** Please ensure you select Canada East as your resource group location</mark>
+<mark>**Note** Please ensure you select East US 2 as your resource group location</mark>
 
 ![](./azd-up.png)
 
